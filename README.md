@@ -1,3 +1,14 @@
+# Presentation
+
+This is a modified version of the DimeNet and DimeNet++ github repositries.
+I used it for a project of prediction of the energy of molecules.
+It is a Graph neural Network with invariance to rotation, translation and permutations.
+This 3 invariances are required for a good prediction of the energy of molecules.
+
+
+
+Next is the ReadMe of DimeNet repository.
+
 # Directional Message Passing Neural Network (DimeNet and DimeNet++)
 
 <p align="center">
