@@ -5,6 +5,7 @@ I used it for a project of prediction of the energy of molecules.
 It is a Graph neural Network with invariance to rotation, translation and permutations.
 This 3 invariances are required for a good prediction of the energy of molecules.
 
+For further explanations, you can look at presentation.pdf
 
 
 Next is the ReadMe of DimeNet repository.
